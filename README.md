@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bahadır Çokdilli</h1>
-<h3 align="center">A passionate python developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 
 
 - 👨‍💻 All of my projects are available at [pysagor.com](https://pysagor.com/)
-
-- 💬 Ask me about **Python, Django, Flask, FastApi, LangChain**
 
 - 📫 How to reach me **b.cokdilli@hotmail.com.tr**
 
